@@ -117,3 +117,21 @@ These files are loaded by `fraud/ml_model.py` during fraud prediction.
 - Database credentials and email credentials are currently hard-coded in settings, so they should be moved to environment variables before production use.
 - The repository includes `db.sqlite3`, but the active Django configuration is set to MySQL.
 
+## Images
+Home
+![Home](images/home.png)
+
+Dashboard
+![Dashboard](images/dashboard.png)
+
+Card table
+![Card](images/card.png)
+
+Transaction 
+![Transaction](images/transaction.png)
+
+FraudAlert
+![fraud](images/farudalert.png)
+
+upload data with csv 
+![upload](images/uploadcsvdata.png)
